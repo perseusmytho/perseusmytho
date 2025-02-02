@@ -49,8 +49,6 @@
 <h2> 🤝 Connect with Me:</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marc-corona-mireles)
-- 📝 [GitHub](https://github.com/YOUR_GITHUB)
-- 🌐 [Portfolio (if available)](https://YOUR_WEBSITE) 
 
 
 
