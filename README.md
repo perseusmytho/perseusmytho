@@ -43,7 +43,8 @@
 
 <h2>📄 Resume:</h2>
 
-- 📜 [Download My Resume](https://github.com/YOUR_GITHUB/Resume.pdf)  
+- 📜 [Download My Resume](https://github.com//raw/main/Resume.pdf)
+
 
 <h2> 🤝 Connect with Me:</h2>
 
