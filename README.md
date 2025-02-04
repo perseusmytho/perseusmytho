@@ -10,7 +10,7 @@
   - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/YOUR_GITHUB/Custom-PC-Build)
 
 - <b>Cybersecurity Labs:</b>
-  - [Performing Vulnerability Assessments (Nmap, Nessus, OpenVAS)](https://github.com/YOUR_GITHUB/Vulnerability-Assessment)
+  - [Performing Vulnerability Assessments (Nmap, Nessus, OpenVAS)](https://github.com/perseusmytho/vulnerability-assessment-lab)
   - [Packet Capture & Traffic Analysis (Wireshark)](https://github.com/YOUR_GITHUB/Packet-Capture)
   - [User Authentication & Access Control Implementation](https://github.com/YOUR_GITHUB/Access-Control)
   - [Encryption for Data Confidentiality](https://github.com/YOUR_GITHUB/Encryption-Security)
