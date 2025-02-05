@@ -12,7 +12,7 @@
 - <b>Cybersecurity Labs:</b>
   - [Performing Vulnerability Assessments (Nmap, Nessus, OpenVAS)](https://github.com/perseusmytho/vulnerability-assessment-lab)
   - [Packet Capture & Traffic Analysis (Wireshark)](https://github.com/perseusmytho/packet-capture-traffic-analysis)
-  - [User Authentication & Access Control Implementation](https://github.com/YOUR_GITHUB/Access-Control)
+  - [User Authentication & Access Control Implementation](https://github.com/perseusmytho/user-authentication-access-control)
   - [Encryption for Data Confidentiality](https://github.com/YOUR_GITHUB/Encryption-Security)
   - [Assessing Common Attack Vectors](https://github.com/YOUR_GITHUB/Attack-Vectors)
   - [IT Security Policy Implementation](https://github.com/YOUR_GITHUB/Security-Policy)
