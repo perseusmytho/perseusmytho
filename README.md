@@ -3,9 +3,9 @@
 <h2>🔒 Cybersecurity & Networking Projects:</h2>
 
 - <b>Home Secure Network Lab</b>
-  - [Configured a virtual network using pfSense, Kali Linux, and security tools like Wireshark and Metasploit](https://github.com/YOUR_GITHUB/Home-Security-Lab)
+  - [Configured a virtual network using pfSense, Kali Linux, and security tools like Wireshark and Metasploit](https://github.com/perseusmytho/Home-Security-Lab)
 - <b>Custom PC Build & System Optimization</b>
-  - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/YOUR_GITHUB/Custom-PC-Build)
+  - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/perseusmytho/custom-pc-build-optimization)
 
 - <b>Cybersecurity Labs:</b>
   - [Performing Vulnerability Assessments (Nmap, Nessus, OpenVAS)](https://github.com/perseusmytho/vulnerability-assessment-lab)
