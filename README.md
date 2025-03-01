@@ -4,8 +4,6 @@
 
 - <b>Home Secure Network Lab</b>
   - [Configured a virtual network using pfSense, Kali Linux, and security tools like Wireshark and Metasploit](https://github.com/YOUR_GITHUB/Home-Security-Lab)
-- <b>Vulnerability Scanner (Python & Nmap)</b>
-  - [Developing an automated vulnerability scanner integrating Nmap for network assessments](https://github.com/YOUR_GITHUB/Vulnerability-Scanner)
 - <b>Custom PC Build & System Optimization</b>
   - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/YOUR_GITHUB/Custom-PC-Build)
 
@@ -17,12 +15,6 @@
   - [Assessing Common Attack Vectors](https://github.com/perseusmytho/assessing-attack-vectors)
   - [IT Security Policy Implementation](https://github.com/perseusmytho/security-policy-implementation)
   - [Security Monitoring & Logging](https://github.com/perseusmytho/security-monitoring-logging)
-
-- <b>Network Labs:</b>
-  - [Workstation Security & Configuration](https://github.com/YOUR_GITHUB/Workstation-Security)
-  - [LAN & LAN-to-WAN Security (VLANs, Firewalls, NAT)](https://github.com/YOUR_GITHUB/LAN-Security)
-  - [Firewall & VPN Implementation (pfSense)](https://github.com/YOUR_GITHUB/Firewall-VPN)
-  - [Active Directory & DNS Management](https://github.com/YOUR_GITHUB/AD-DNS-Management)
 
 <h2>📚 Certifications:</h2>
 
@@ -36,7 +28,6 @@
 - 🔹 Vulnerability Assessments & Penetration Testing
 - 🔹 Threat Detection & Incident Response
 - 🔹 Windows System Security & Basic Linux
-- 🔹 Python for Security Automation
 - 🔹 Cybersecurity Tools: Nmap, Nessus, Wireshark, Metasploit, Snort
 - 🔹 Hardware: Custom PC Building, BIOS Configuration, System Optimization
 - 🔹 Performance Monitoring & Driver Management
