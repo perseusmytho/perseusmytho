@@ -18,9 +18,10 @@
 
 <h2>📚 Certifications:</h2>
 
-- Google Cybersecurity Certificate
+- CompTIA Network+ (March 2025)
 - CompTIA Security+ (October 2024)
-- Studying for CompTIA Network+
+- Google Cybersecurity Certificate
+
 
 <h2> 🎯 Skills & Technologies:</h2>
 
