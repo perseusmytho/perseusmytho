@@ -32,6 +32,11 @@
 - 🔹 Cybersecurity Tools: Nmap, Nessus, Wireshark, Metasploit, Snort
 - 🔹 Hardware: Custom PC Building, BIOS Configuration, System Optimization
 - 🔹 Performance Monitoring & Driver Management
+- 🔹 IP Addressing & Subnetting
+- 🔹 Network Performance Optimization
+- 🔹 Network Device Configuration (Routers, Switches)
+- 🔹 Wireless Network Security (WPA 3, Access Points)
+- 🔹 Networking Standards & Protocols 
 
 <h2>📄 Resume:</h2>
 
