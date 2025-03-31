@@ -4,8 +4,6 @@
 
 - <b>Home Secure Network Lab</b>
   - [Configured a virtual network using pfSense, Active Directory, Kali Linux, and Suricata — network security, pentesting, and intrusion detection](https://github.com/perseusmytho/home-security-lab)
-- <b>Custom PC Build & System Optimization</b>
-  - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/perseusmytho/custom-pc-build-optimization)
 
 - <b>Cybersecurity Labs:</b>
   - [Performing Vulnerability Assessments (Nmap, Nessus, OpenVAS)](https://github.com/perseusmytho/vulnerability-assessment-lab)
@@ -15,6 +13,16 @@
   - [Assessing Common Attack Vectors](https://github.com/perseusmytho/assessing-attack-vectors)
   - [IT Security Policy Implementation](https://github.com/perseusmytho/security-policy-implementation)
   - [Security Monitoring & Logging](https://github.com/perseusmytho/security-monitoring-logging)
+
+<h2>🌐 Cisco Packet Tracer Labs:</h2>
+
+- <b>Sales Organization Network Lab</b>
+  - [Designed and configured a sales organization network with VLANs, DHCP, and inter-VLAN routing](https://github.com/perseusmytho/sales-org-network-lab)
+
+<h2>🖥️ Computer Build Projects:</h2>
+
+- <b>Custom PC Build & System Optimization</b>
+  - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/perseusmytho/custom-pc-build-optimization)
 
 <h2>📚 Certifications:</h2>
 
