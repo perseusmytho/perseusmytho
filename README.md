@@ -3,7 +3,7 @@
 <h2>🔒 Cybersecurity & Networking Projects:</h2>
 
 - <b>Home Secure Network Lab</b>
-  - [Configured a virtual network using pfSense, Active Directory, Kali Linux, and Suricata—mastering network security, pentesting, and intrusion detection](https://github.com/perseusmytho/home-security-lab)
+  - [Configured a virtual network using pfSense, Active Directory, Kali Linux, and Suricata — network security, pentesting, and intrusion detection](https://github.com/perseusmytho/home-security-lab)
 - <b>Custom PC Build & System Optimization</b>
   - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/perseusmytho/custom-pc-build-optimization)
 
