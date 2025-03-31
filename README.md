@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc Corona! <br/><a href="https://github.com/YOUR_GITHUB">IT, Networking, and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <a href="https://YOUR_WEBSITE_OR_PROJECT">Tech Learner</a></h1>
+<h1>Hi, I'm Marc Corona Mireles! <br/><a href="https://github.com/YOUR_GITHUB">IT, Networking, and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <a href="https://YOUR_WEBSITE_OR_PROJECT">Tech Learner</a></h1>
 
 <h2>🔒 Cybersecurity & Networking Projects:</h2>
 
