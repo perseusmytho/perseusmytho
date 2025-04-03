@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc Corona Mireles! <br/><a href="https://github.com/YOUR_GITHUB">IT, Networking, and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <a href="https://YOUR_WEBSITE_OR_PROJECT">Tech Learner</a></h1>
+<h1>Hi, I'm Marc Corona Mireles! <br/><a href="https://github.com/perseusmytho">IT, Networking, and Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/marc-corona-mireles"> <a href="https://YOUR_WEBSITE_OR_PROJECT">Tech Learner</a></h1>
 
 <h2>🔒 Cybersecurity & Networking Projects:</h2>
 
@@ -19,6 +19,9 @@
 - <b>Sales Organization Network Lab</b>
   - [Designed and configured a sales organization network with VLANs, DHCP, and inter-VLAN routing](https://github.com/perseusmytho/sales-org-network-lab)
 
+- <b>Workplace Organization Network Lab</b>
+  - [Designed and configured a workplace network with VLANs, Voice VLAN, DHCP, DMZ, guest network with wireless access, port security, and inter-VLAN routing](https://github.com/perseusmytho/workplace-org-network-lab)
+
 <h2>🖥️ Computer Build Projects:</h2>
 
 - <b>Custom PC Build & System Optimization</b>
@@ -29,7 +32,6 @@
 - CompTIA Network+ (March 2025)
 - CompTIA Security+ (October 2024)
 - Google Cybersecurity Certificate
-
 
 <h2> 🎯 Skills & Technologies:</h2>
 
@@ -50,10 +52,6 @@
 
 - 📜 [Resume.pdf](https://github.com/user-attachments/files/19496474/Resume.pdf)
 
-
 <h2> 🤝 Connect with Me:</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marc-corona-mireles)
-
-
-
