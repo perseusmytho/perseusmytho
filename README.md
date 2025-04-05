@@ -28,7 +28,8 @@
   - [Built and optimized a custom PC including BIOS configuration, driver optimization, and performance tuning](https://github.com/perseusmytho/custom-pc-build-optimization)
 
 <h2>📚 Certifications:</h2>
-
+- Studying for CCNA
+- Studying for AZ-900
 - CompTIA Network+ (March 2025)
 - CompTIA Security+ (October 2024)
 - Google Cybersecurity Certificate
