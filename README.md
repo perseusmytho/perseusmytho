@@ -29,8 +29,7 @@
 
 <h2>📚 Certifications:</h2>
 
-- Studying for CCNA
-- Studying for AZ-900
+- Studying for AZ-700
 - CompTIA Network+ (March 2025)
 - CompTIA Security+ (October 2024)
 - Google Cybersecurity Certificate
