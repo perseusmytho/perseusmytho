@@ -31,10 +31,9 @@
 
 <h2>📚 Certifications:</h2>
 
-- Studying for AZ-700
-- CompTIA Network+ (March 2025)
-- CompTIA Security+ (October 2024)
-- Google Cybersecurity Certificate
+- Studying for Master's in Cybersecurity and Information Assurance at WGU
+- Studying for CySA +
+- Studying for Pen Test +
 
 <h2> 🎯 Skills & Technologies:</h2>
 
