@@ -52,7 +52,7 @@
 
 <h2>📄 Resume:</h2>
 
-- 📜 [Resume.pdf](https://github.com/user-attachments/files/19764340/Resume.pdf)
+- 📜 [Resume.pdf](https://github.com/user-attachments/files/21741366/Resume.v5.-.Google.Docs.pdf)
 
 <h2> 🤝 Connect with Me:</h2>
 
