@@ -32,7 +32,6 @@
 <h2>📚 Certifications:</h2>
 
 - Studying for Master's in Cybersecurity and Information Assurance at WGU
-- Studying for CySA +
 - Studying for Pen Test +
 
 <h2> 🎯 Skills & Technologies:</h2>
