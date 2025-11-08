@@ -14,8 +14,9 @@
   - [IT Security Policy Implementation](https://github.com/perseusmytho/security-policy-implementation)
   - [Security Monitoring & Logging](https://github.com/perseusmytho/security-monitoring-logging)
 
-- <b>Hack The Box Cybersecurity Labs:</b>
-  - Coming ...
+- <b>Penetration Testing Labs:</b>
+  - [Performing Reconniassance](http://github.com/perseusmytho/pentest-reconnaissance-lab)
+  - [Cracking the Perimeter](http://github.com/perseusmytho/cracking-the-perimeter)
 <h2>🌐 Cisco Packet Tracer Labs:</h2>
 
 - <b>Sales Organization Network Lab</b>
